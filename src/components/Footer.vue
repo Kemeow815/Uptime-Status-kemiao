@@ -82,13 +82,13 @@
           >UptimeRobot</a> 接口 | 检测频率 5 分钟
         </div>
         <div>
-          Copyright © 2020 - {{ new Date().getFullYear() }} <a 
+          Copyright © 2025 - {{ new Date().getFullYear() }} <a 
             :href="pkg.repository.url"
             target="_blank"
             rel="noopener noreferrer"
             class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
           >
-            JLinmr
+            克喵爱吃卤面
           </a>
         </div>
       </div>
